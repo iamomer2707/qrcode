@@ -1,0 +1,37 @@
+graph LR
+    subgraph Device Layer
+        A[Sensor/Actuator] --> B(Communication Module)
+    end
+
+    subgraph Communication Layer
+        B --> C[Gateway]
+    end
+
+    subgraph Network Services Layer
+        C --> D[Network (e.g., Cellular, Wi-Fi)]
+    end
+
+    subgraph Data Processing & Storage
+        D --> E[Cloud Platform/Server]
+    end
+
+    subgraph Application Layer
+        E --> F[IoT Applications (e.g., Monitoring, Control)]
+    end
+
+    subgraph Common Services Layer
+        E --> G[Data Management & Security]
+        E --> H[Device Management]
+    end
+
+    F --> User[User Interface (Dashboard/Mobile App)]
+
+    style A fill:#ccf,stroke:#888,stroke-width:2px
+    style B fill:#ccf,stroke:#888,stroke-width:2px
+    style C fill:#ccf,stroke:#888,stroke-width:2px
+    style D fill:#ccf,stroke:#888,stroke-width:2px
+    style E fill:#ccf,stroke:#888,stroke-width:2px
+    style F fill:#ccf,stroke:#888,stroke-width:2px
+    style G fill:#ccf,stroke:#888,stroke-width:2px
+    style H fill:#ccf,stroke:#888,stroke-width:2px
+    style User fill:#ccf,stroke:#888,stroke-width:2px
