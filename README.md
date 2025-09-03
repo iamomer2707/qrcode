@@ -39,7 +39,7 @@ If you're curious to try it out:
 
 ## Why This Matters
 
-Most MFA systems rely on something you see (QR) + something you know (password, code). I’ve been playing with the idea of adding something you are or in this case, something you physically have—in the form of this RF-responsive antenna. It’s a small hardware step toward making authentication feel real-world real.
+Most MFA systems rely on something you see (QR) + something you know (password, code). I’ve been playing with the idea of adding something you are or in this case, something you physically have in the form of this RF responsive antenna. It’s a small hardware step toward making authentication feel real-world real.
 
 ---
 
@@ -51,11 +51,11 @@ Absolutely! Whether it's refining the RF logic, improving the UI, or testing it 
 
 ## Licensing & Contact
 
-I’m leaning toward making this open source under MIT—because more people testing and improving never hurts. Want to chat about ideas, improvements, or real-world use cases? Drop me a message right here on GitHub!
+I’m leaning toward making this open source under MIT because more people testing and improving never hurts. Want to chat about ideas, improvements, or real-world use cases? Drop me a message right here on GitHub!
 
 ---
 
-Thanks a bunch for checking this out—let’s make authentication more secure and a bit more fun.
+Thanks a bunch for checking this out let’s make authentication more secure and a bit more fun.
 
 ### How to Paste It Right Into Your Repo
 
