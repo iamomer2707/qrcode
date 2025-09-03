@@ -1,12 +1,12 @@
 # QR Code Pixelated Antenna MFA
 
-Welcome to **QR Code Pixelated Antenna MFA**, a neat project that takes two-factor authentication to the next level by combining a standard QR code with a unique RF-responsive antenna pattern. It’s all about verifying both what you see—and your physical presence. Perfect for adding an extra layer of security to wireless systems, IoT devices, and access control setups.
+Welcome to **QR Code Pixelated Antenna MFA**, a neat project that takes two-factor authentication to the next level by combining a standard QR code with a unique RF responsive antenna pattern. It’s all about verifying both what you see and your physical presence. Perfect for adding an extra layer of security to wireless systems, IoT devices, and access control setups.
 
 ---
 
 ##  Why This Exists
 
-Tired of relying on just visual cues like QR codes—where a screen or photo might trick the system? This project ensures you’re not only scanning what’s expected but that you're actually *there* with a matching RF antenna. It's like turning a one-dimensional code into a real-world handshake.
+Tired of relying on just visual cues like QR codes where a screen or photo might trick the system? This project ensures you’re not only scanning what’s expected but that you're actually *there* with a matching RF antenna. It's like turning a one dimensional code into a real-world handshake.
 
 ---
 
