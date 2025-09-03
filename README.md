@@ -30,22 +30,22 @@ Tired of relying on just visual cues like QR codes—where a screen or photo mig
 
 If you're curious to try it out:
 
-git clone https://github.com/iamomer2707/qrcode.git
-cd qrcode
-pip install -r requirements.txt   # Or use Docker if that’s your jam
-./manage.py runserver  # Get the app running!
+- git clone https://github.com/iamomer2707/qrcode.git
+- cd qrcode
+- pip install -r requirements.txt   # Or use Docker if that’s your jam
+- ./manage.py runserver  # Get the app running!
 
 ---
 
 ## Why This Matters
 
-Most MFA systems rely on something you see (QR) + something you know (password, code). I’ve been playing with the idea of adding something you are—or in this case, something you physically have—in the form of this RF-responsive antenna. It’s a small hardware step toward making authentication feel real-world real.
+Most MFA systems rely on something you see (QR) + something you know (password, code). I’ve been playing with the idea of adding something you are or in this case, something you physically have—in the form of this RF-responsive antenna. It’s a small hardware step toward making authentication feel real-world real.
 
 ---
 
 ## Want to Contribute?
 
-Absolutely! Whether it's refining the RF logic, improving the UI, or testing it with different antenna designs—I’d love your help. Fork it, give it a spin, and open up a pull request with your ideas.
+Absolutely! Whether it's refining the RF logic, improving the UI, or testing it with different antenna designs I’d love your help. Fork it, give it a spin, and open up a pull request with your ideas.
 
 ---
 
