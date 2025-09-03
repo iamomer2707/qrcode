@@ -23,10 +23,7 @@ Tired of relying on just visual cues like QR codes—where a screen or photo mig
 - deployement.yaml
 - requirements.txt
 - db.sqlite3
-
-- The real magic lies within that `qrcodepixelated/` folder—processing, auth logic, and RF integration.
-- All your deployment stuff is ready to go, from Docker to Kubernetes yaml.
-
+  
 ---
 
 ##  Quick Start
